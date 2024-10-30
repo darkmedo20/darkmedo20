@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm Ahmed almostafa, I'm pasionate about backend web developemnt and software engineering, Continious learning triggers innovative solutions, My top skills are dedication and focus.
+I'm Ahmed almostafa, I'm pasionate about backend web developemnt and software engineering, Continuous learning triggers innovative solutions, My top skills are dedication and focus.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-tarigg/) 
